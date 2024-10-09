@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 body{
   font-size: 20px;
 }
@@ -5,7 +8,7 @@ body{
     width:50%;
     display: inline-block;
 }
-resume .resume-title {
+.resume-title {
     font-size: 26px;
     font-weight: 700;
     margin-top: 20px;
